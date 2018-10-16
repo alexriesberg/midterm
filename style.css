@@ -1,0 +1,51 @@
+body {
+    background: white;
+    color: black;
+    
+    
+}
+
+.head {
+    text-align: center;
+    font-family: serif
+    
+}
+nav {
+    text-align: left;
+    display: inline;
+}
+
+.top-nav {
+
+}
+
+.container {
+
+    
+}
+
+.content-column {
+    width: 33%;
+    height: auto;
+    display: inline-block;
+}
+
+.content-column-2 {
+    width: 33%;
+    display: inline-block;
+    text-align: left;
+}
+.content-column-3 {
+    width: 33%;
+    display: inline-block;
+    text-align: left;
+}
+
+.content-column p {
+    width: 100%;
+}
+
+li{
+    display: inline;
+    margin-left:250px;
+}
